@@ -25,7 +25,7 @@
   </a>
 </p>
 
-# Project goalss
+# Project goals
 
 - Design a comprehensive library for computational geometry and meshing algorithms in Julia.
 - Unite different scientific communities using meshes (e.g. GIS, CFD, Computer Vision, Graphics)
